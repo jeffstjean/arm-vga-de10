@@ -14,8 +14,8 @@ Note on push buttons in the simulator: the buttons have to be manually pressed *
 6. Scroll the peripheral list down so VGA pixel buffer is in view.
 7. Press "Continue" from the toolbar at the top.
 8. Use push buttons the first and third push button (from the right) to select a segment within the pixel buffer (indicated by the bordered outline).
-9. Use the second button (fron the left) to begin editing the currently selected segment. The border around the segment will get thicker.
+9. Use the second button (from the right) to begin editing the currently selected segment. The border around the segment will get thicker.
 10. Use the Carworld UART sliders underneath the VGA display to modify the colour (x for red, y for green, z for red).
 11. Reference the seven segment display to see the hex value equivalent of the currently selected colour.
-12. Press the second button (from the left) again to save the current segment.
+12. Press the second button (from the right) again to save the current segment.
 13. Repeat for any other required colours.
